@@ -1,0 +1,137 @@
+body{
+    font-family: Open Sans, sans-serif;
+}
+.first-div{
+    background-color: #484E55;
+    min-height: 530px;
+}
+
+.margin-first-div{
+    margin-top: 50px;
+}
+
+.button-margin{
+    margin-top: 20px;
+}
+
+.button-functions{
+    font-family: Open Sans, sans-serif;
+    color: white;
+    font-weight: 600;
+    margin: 0 -5px 0 -5px;
+    background-color: #494F56;
+    text-shadow: 0 0 10px #F5600F;
+    border: 1px solid #3E434A;
+    box-shadow: 0 0 35px #3E434A;
+}
+
+
+.we-design-things{
+    margin-top: 55px;
+    font-size: 48px;
+    font-weight: bolder;
+    color: white;
+}
+
+.things-orange{
+    color: #F5600F;
+}
+
+.first-div-p{
+    color: lightgrey;
+    font-size: 17px;
+    margin-top: -15px;
+    padding-bottom: 30px;
+}
+
+.menu{
+    color: white;
+}
+
+.white{
+    color: white;
+    font-size: 12px;
+}
+
+.white:hover{
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.hire-us{
+    background-color: #F5600F;
+    padding-right: 45px;
+    padding-left: 45px;
+    border-radius: 8px;
+}
+
+.hire-us:hover{
+    background-color: #E14F00;
+    padding-right: 45px;
+    padding-left: 45px;
+    border-radius: 8px;
+}
+
+.our-works{
+    background-color: transparent;
+    border: 1px solid white;
+    padding-right: 30px;
+    padding-left: 30px; 
+    border-radius: 8px;
+}
+.our-works:hover{
+    background-color: #363C44;
+    border: 1px solid black;
+    padding-right: 30px;
+    padding-left: 30px; 
+    border-radius: 8px;
+
+}
+
+.slider{
+    margin-top: 120px;
+    width: 20px;
+}
+
+
+/* 2nd div starts */
+
+.second-div{
+    min-height: 200px;
+    margin-top: -100px;
+    padding-bottom: 80px;
+}
+
+.print{
+    width: 100px;
+    margin-top: 90px;
+}
+
+.h-print{
+    font-weight: bolder;
+    color: black;
+    opacity: .6;
+    font-size: 15px;
+}
+
+.p-print{
+    font-size: 12px;
+    color: grey;
+}
+
+/* 3rd div starts --*/
+
+.third-div{
+    background-image: url(../images/third-div-cover.png);
+    background-attachment: scroll;
+    background-position: center;
+    min-height: 100px;
+}
+
+.margin-third-div{
+    margin-top: 40px;
+}
+
+/* 4th div starts */
+
